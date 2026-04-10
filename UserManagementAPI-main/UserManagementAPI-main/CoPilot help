@@ -1,0 +1,67 @@
+Activity-1
+
+How Copilot helped:
+
+Generated initial ASP.NET Core project structure
+
+Suggested correct syntax for controllers and routing
+
+Auto-completed CRUD methods
+
+Helped fix errors (null checks, return types)
+
+Improved code readability and formatting
+
+Suggested best practices like CreatedAtAction()
+
+
+
+
+Activity-2
+
+Bugs Identified:
+
+Missing input validation for user fields
+
+Application crashed when user list was empty
+
+No handling for invalid IDs
+
+Lack of exception handling
+
+How Copilot Helped:
+
+Suggested validation logic for name and email
+
+Recommended using try-catch blocks
+
+Helped fix Max() crash using Any()
+
+Improved API responses with proper status codes
+
+Suggested regex for email validation
+
+
+
+
+Activity-3
+
+Middleware Implemented:
+
+Logging middleware to track requests and responses
+
+Error-handling middleware for consistent API errors
+
+Authentication middleware for token validation
+
+How Copilot Helped:
+
+Generated middleware structure using RequestDelegate
+
+Suggested correct middleware pipeline order
+
+Helped implement token validation logic
+
+Provided error handling best practices
+
+Improved debugging with logging
